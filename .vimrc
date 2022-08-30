@@ -3,6 +3,7 @@ filetype plugin indent on
 set autoindent
 " allow backspacing over autoindent, end of line, and start of insert
 set backspace=indent,eol,start
+set number
 set shiftwidth=2
 set tabstop=2
 inoremap jk <esc>
