@@ -1,6 +1,6 @@
 # vim
 
-This repo exists so I can quickly setup my vim and/or configuration in a fresh OS.
+This repo exists so I can quickly setup my vim and/or neovim configuration in a fresh OS.
 
 Tested in Ubuntu so far.
 
